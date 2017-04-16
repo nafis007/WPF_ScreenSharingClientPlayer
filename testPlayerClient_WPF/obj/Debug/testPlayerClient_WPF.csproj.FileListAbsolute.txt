@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.pdb
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\MjpegProcessor.dll
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\MainWindow.baml
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\MainWindow.g.cs
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\App.g.cs
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF_MarkupCompile.cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.g.resources
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.pdb
